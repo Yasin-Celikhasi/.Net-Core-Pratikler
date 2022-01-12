@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UUKUjI0Y877dGVOybkA3xTz0XGJwT/7W1ZwaxNGRcfVogz86ChKClFFbGT08ufujsAeE2/tYLSk/uQXzNrlEWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yasin\\Desktop\\Yazılım\\Patika_Net Core\\Pratikler\\console-programlama\\console-programlama.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yasin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
