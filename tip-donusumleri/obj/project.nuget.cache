@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nZ6wty2TbgcClEAOxf/YHOVA92Sqvc4xVuZmmRAyF2C3qYQuZDY8p2Axokg5Wh5iPoDQN8FxcUl5K7XyVWux+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yasin\\Desktop\\Yazılım\\Patika_Net Core\\Pratikler\\tip-donusumleri\\tip-donusumleri.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yasin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
