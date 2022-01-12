@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gxl1+Dtald4YgrTxDf4bIxRs1bZXlE7empviS7eYyl1P4CQKPJHjO+OzZJOf2ZjaIA1WzOMQ+9zi1BdWGw2XUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yasin\\Desktop\\Yazılım\\Patika_Net Core\\Pratikler\\diziler\\diziler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yasin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

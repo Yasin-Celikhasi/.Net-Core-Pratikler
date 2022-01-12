@@ -1,0 +1,16 @@
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\diziler\bin\Debug\net5.0\diziler.exe
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\diziler\bin\Debug\net5.0\diziler.deps.json
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\diziler\bin\Debug\net5.0\diziler.runtimeconfig.json
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\diziler\bin\Debug\net5.0\diziler.runtimeconfig.dev.json
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\diziler\bin\Debug\net5.0\diziler.dll
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\diziler\bin\Debug\net5.0\ref\diziler.dll
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\diziler\bin\Debug\net5.0\diziler.pdb
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\diziler\obj\Debug\net5.0\diziler.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\diziler\obj\Debug\net5.0\diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\diziler\obj\Debug\net5.0\diziler.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\diziler\obj\Debug\net5.0\diziler.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\diziler\obj\Debug\net5.0\diziler.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\diziler\obj\Debug\net5.0\diziler.dll
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\diziler\obj\Debug\net5.0\ref\diziler.dll
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\diziler\obj\Debug\net5.0\diziler.pdb
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\diziler\obj\Debug\net5.0\diziler.genruntimeconfig.cache
