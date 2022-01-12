@@ -1,0 +1,16 @@
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\try-catch\bin\Debug\net5.0\try-catch.exe
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\try-catch\bin\Debug\net5.0\try-catch.deps.json
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\try-catch\bin\Debug\net5.0\try-catch.runtimeconfig.json
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\try-catch\bin\Debug\net5.0\try-catch.runtimeconfig.dev.json
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\try-catch\bin\Debug\net5.0\try-catch.dll
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\try-catch\bin\Debug\net5.0\ref\try-catch.dll
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\try-catch\bin\Debug\net5.0\try-catch.pdb
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\try-catch\obj\Debug\net5.0\try-catch.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\try-catch\obj\Debug\net5.0\try-catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\try-catch\obj\Debug\net5.0\try-catch.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\try-catch\obj\Debug\net5.0\try-catch.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\try-catch\obj\Debug\net5.0\try-catch.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\try-catch\obj\Debug\net5.0\try-catch.dll
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\try-catch\obj\Debug\net5.0\ref\try-catch.dll
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\try-catch\obj\Debug\net5.0\try-catch.pdb
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\try-catch\obj\Debug\net5.0\try-catch.genruntimeconfig.cache
