@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lyNOmlP3xcjpGTkHvhF2rUWGWU8oIjelc1H1IKK2Ypn9wYo+6NuFggBuavrJs/U0lkpzIa72/RO1tlEN+YL9nA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yasin\\Desktop\\Yazılım\\Patika_Net Core\\Pratikler\\array-metodlari\\array-metodlari.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yasin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\array-metodlari\bin\Debug\net5.0\array-metodlari.exe
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\array-metodlari\bin\Debug\net5.0\array-metodlari.deps.json
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\array-metodlari\bin\Debug\net5.0\array-metodlari.runtimeconfig.json
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\array-metodlari\bin\Debug\net5.0\array-metodlari.runtimeconfig.dev.json
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\array-metodlari\bin\Debug\net5.0\array-metodlari.dll
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\array-metodlari\bin\Debug\net5.0\ref\array-metodlari.dll
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\array-metodlari\bin\Debug\net5.0\array-metodlari.pdb
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\array-metodlari\obj\Debug\net5.0\array-metodlari.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\array-metodlari\obj\Debug\net5.0\array-metodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\array-metodlari\obj\Debug\net5.0\array-metodlari.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\array-metodlari\obj\Debug\net5.0\array-metodlari.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\array-metodlari\obj\Debug\net5.0\array-metodlari.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\array-metodlari\obj\Debug\net5.0\array-metodlari.dll
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\array-metodlari\obj\Debug\net5.0\ref\array-metodlari.dll
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\array-metodlari\obj\Debug\net5.0\array-metodlari.pdb
+C:\Users\Yasin\Desktop\Yazılım\Patika_Net Core\Pratikler\array-metodlari\obj\Debug\net5.0\array-metodlari.genruntimeconfig.cache
