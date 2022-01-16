@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S2LX3C+h3++T2RZq1whPFl1XhqgOgsBDr+uDVHSt5T84s5pgYekfSEA64xwrEhf5BD9cL9MdNUp1hKMtSh0nEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yasin\\Desktop\\Yazılım\\Patika_Net Core\\Pratikler\\recursive_extension_metotlar\\recursive_extension_metotlar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yasin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
