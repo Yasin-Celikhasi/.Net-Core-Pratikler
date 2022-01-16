@@ -21,6 +21,18 @@ namespace metotlar
             int sonuc2 = ornek.ArttırVeTopla(ref a, ref b);
             ornek.EkranaYazdir(Convert.ToString(sonuc2));
             ornek.EkranaYazdir(Convert.ToString(a+b));      // a ve b ref olarak verilirse burası 5 yerine 7 olarak gelir !
+
+
+            // ******** Overloading *********
+             // Out parametreler
+             string sayi = "999";
+            bool sonuc3  = int.TryParse(sayi, out int outSayi);
+            if(sonuc3){
+                Console.WriteLine("Basarılı", sonuc3);
+            }else
+            {
+                Console.WriteLine("Basarisiz");
+            }
         }
 
         static int Topla(int deger1, int deger2){
